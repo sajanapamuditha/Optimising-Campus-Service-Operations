@@ -1,0 +1,11 @@
+LocationID,Name,Building,X,Y
+L001,Lecture Theatre 1,Main Block,10,15
+L002,Lecture Theatre 2,Main Block,12,18
+L003,Lab A,Science Block,25,30
+L004,Lab B,Science Block,28,32
+L005,Admin Office 101,Admin Block,5,10
+L006,Admin Office 102,Admin Block,6,12
+L007,Student Hall A,North Wing,40,10
+L008,Student Hall B,North Wing,42,12
+L009,Library,Library Block,20,20
+L010,Cafeteria,Main Block,15,15
